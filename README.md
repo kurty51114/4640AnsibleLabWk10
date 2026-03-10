@@ -1,4 +1,8 @@
 # 4640AnsibleLabWk10
+Kurtis Li
+Carson Chiu
+Brandon Chow
+
 ## 1. Making Playbook.yml
 - Create a new file named playbook.yml based on play.yml
 
@@ -15,3 +19,6 @@
 
 ## 5. Run file
 ansible-playbook -i inventory_aws_ec2.yml playbook.yml
+
+## Working Server:
+![screenshot](workingServer.png)
